@@ -26,7 +26,7 @@ A previous installation attempt had partially registered an agent under the same
 2. Cleared the leftover `client.keys` file on the Windows host to remove the old registration reference.
 3. Re-ran the agent deployment command from the Dashboard's "Deploy new agent" flow.
 
-![Agent successfully connected in dashboard](screenshots/case2-agent-connected.png)
+![Agent successfully connected in dashboard](screenshots/case1-agent-connected.png)
 *Agent now showing as Active in the Wazuh Dashboard's Agents summary.*
 
 **Lesson Learned**
